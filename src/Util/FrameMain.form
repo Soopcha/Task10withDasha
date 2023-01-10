@@ -63,6 +63,8 @@
           </grid>
         </constraints>
         <properties>
+          <background color="-855310"/>
+          <editable value="true"/>
           <enabled value="true"/>
           <font name="Fira Code" size="12" style="1"/>
         </properties>
